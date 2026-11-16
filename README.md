@@ -7,7 +7,7 @@ Repository ufficiale per la distribuzione e gli aggiornamenti automatici dell'ap
 
 ### Versione Corrente
 - **Versione:** `0.1.0`
-- **Data rilascio:** 16 Novembre 2026
+- **Data rilascio:** 2026-11-16
 - **Dimensione:** ~4.0 MB
 - **Compatibilità:** Android 8.0+
 
