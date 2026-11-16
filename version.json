@@ -1,8 +1,8 @@
 {
-  "version": "0.1.0",
-  "buildNumber": 1794856787,
+  "version": "0.1.1",
+  "buildNumber": 1794858335,
   "releaseDate": "2026-11-16",
   "downloadUrl": "https://raw.githubusercontent.com/davide-dari/chicca-apk/main/Chicca.apk",
   "directBrowserUrl": "https://github.com/davide-dari/chicca-apk/raw/main/Chicca.apk",
-  "releaseNotes": "Nuovo aggiornamento con ottimizzazioni e nuove funzionalita per educatori."
+  "releaseNotes": "Fix layout: ottimizzazione responsive mobile, safe-area e barra di navigazione inferiore"
 }

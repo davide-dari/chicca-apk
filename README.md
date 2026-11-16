@@ -6,7 +6,7 @@ Repository ufficiale per la distribuzione e gli aggiornamenti automatici dell'ap
 👉 **[Clicca qui per scaricare Chicca.apk](https://github.com/davide-dari/chicca-apk/raw/main/Chicca.apk)**
 
 ### Versione Corrente
-- **Versione:** `0.1.0`
+- **Versione:** `0.1.1`
 - **Data rilascio:** 2026-11-16
 - **Dimensione:** ~4.0 MB
 - **Compatibilità:** Android 8.0+
