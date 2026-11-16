@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "buildNumber": 1,
+  "releaseDate": "2026-11-16",
+  "downloadUrl": "https://raw.githubusercontent.com/davide-dari/chicca-apk/main/Chicca.apk",
+  "directBrowserUrl": "https://github.com/davide-dari/chicca-apk/raw/main/Chicca.apk",
+  "releaseNotes": "Prima versione di Chicca: bacheca servizi multi-lavoro, diario appunti con privacy-shield, copilota relazioni peritali/scolastiche, dataset per Gemma 4 E4B e agenda integrata."
+}
